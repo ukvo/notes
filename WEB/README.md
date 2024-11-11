@@ -39,7 +39,6 @@
 
 </details>
 
-
 <details>
 
 <summary>ТОП 18 Cервисов для веб-разработчика</summary>  
@@ -65,3 +64,59 @@
 - [Frontend Mentor](https://www.frontendmentor.io)  
 
 </details>
+
+<details>
+
+<summary>ТОП 25 Сервисов для веб-разработчика</summary>  
+
+### [Source](https://www.youtube.com/watch?v=EeoQepXaOBY)  
+- [Bundlephobia](https://bundlephobia.com )  
+- [RegEx101](https://regex101.com)  
+- [SassMeister](https://www.sassmeister.com)  
+- [Stackedit](https://stackedit.io)  
+- [JSFiddle](https://jsfiddle.net)  
+- [Codesandbox](https://codesandbox.io)  
+- [Codepen](https://codepen.io)  
+- [Caniuse](https://caniuse.com)  
+- [WebDevChecklist](https://webdevchecklist.com)  
+- [FrontendChecklist](https://frontendchecklist.io)  
+- [Cdnjs](https://cdnjs.com)  
+- [Google Fonts](https://fonts.google.com)  
+- [Icomoon](https://icomoon.io)  
+- [Fontello](http://fontello.com)  
+- [Diffchecker](https://www.diffchecker.com)  
+- [JSONEditorOnline](https://jsoneditoronline.org)  
+- [JSON-Generator](https://www.json-generator.com)  
+- [Codebeautify](https://codebeautify.org)  
+- [Photopedea](https://www.photopea.com)  
+- [Github](https://github.com)  
+- [Stackoverflow](https://stackoverflow.com)  
+- [Trello](https://trello.com)  
+- [Snazzymaps](https://snazzymaps.com)  
+- [Bounce.js](http://bouncejs.com)  
+- [HTML Symbols](https://www.toptal.com/designers/htmlarrows)  
+
+</details>
+
+<details>
+
+<summary>ТОП 14 Генераторов CSS эффектов</summary>  
+
+### [Source](https://www.youtube.com/watch?v=9p0RoH1L_v0)  
+- [Glassmorphism](https://hype4.academy/tools/glassmorphism-generator)  
+- [Neumorphism](https://neumorphism.io/)  
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)  
+- [CSS Layout Generator](https://layout.bradwoods.io/)  
+- [Clip-path maker](https://bennettfeely.com/clippy)  
+- [Loaders](https://cssloaders.github.io/)  
+- [Shape Divider](https://www.shapedivider.app/)  
+- [SVG Shape Generator](https://www.softr.io/tools/svg-shape-generator)  
+- [CSS pattern backgrounds](https://superdesigner.co/tools/css-backgrounds)  
+- [PatternPad](https://patternpad.com/)  
+- [Mesher](https://www.csshero.org/mesher)  
+- [Animista](https://animista.net/)  
+- [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius)  
+- [UI Flare Box Shadow](https://htmlcssfreebies.com/ui-flare-box-shadow)  
+
+</details>
+
